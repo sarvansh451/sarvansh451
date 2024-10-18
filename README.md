@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sarvansh451/sarvansh451/blob/main/githubbanner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sarvansh Mehta</h1>
